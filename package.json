@@ -1,0 +1,21 @@
+{
+  "name": "epampt1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chri5to5/epampt1.git"
+  },
+  "keywords": [],
+  "author": "Christ Apigian (apigianchrist@gmail.com)",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Chri5to5/epampt1/issues"
+  },
+  "homepage": "https://github.com/Chri5to5/epampt1#readme"
+}
