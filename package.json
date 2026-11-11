@@ -11,7 +11,16 @@
     "url": "git+https://github.com/Chri5to5/epampt1.git"
   },
   "keywords": [],
-  "author": "Christ Apigian (apigianchrist@gmail.com)",
+  "authors": [
+    {
+      "name": "Christ Apigian",
+      "email": "apigianchrist@gmail.com"
+    },
+    {
+      "name": "Artsiom Bandarenka",
+      "email": "Artsiom_Bandarenka@epam.com"
+    }
+  ],
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
