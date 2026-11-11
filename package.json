@@ -1,5 +1,5 @@
 {
-  "name": "epampt1",
+  "name": "PRACTICAL TASK 1: INTRO TO AUTOMATION TESTING IN JS",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,9 @@
     "url": "git+https://github.com/Chri5to5/epampt1.git"
   },
   "keywords": [],
-  "authors": [
-    {
-      "name": "Christ Apigian",
-      "email": "apigianchrist@gmail.com"
-    },
-    {
-      "name": "Artsiom Bandarenka",
-      "email": "Artsiom_Bandarenka@epam.com"
-    }
+  "authors":[
+    "Artsiom Bandarenka",
+    "Christ Apigian"
   ],
   "license": "ISC",
   "type": "commonjs",
