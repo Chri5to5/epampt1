@@ -1,7 +1,7 @@
 {
-  "name": "PRACTICAL TASK 1: INTRO TO AUTOMATION TESTING IN JS",
+  "name": "epampt1",
   "version": "1.0.0",
-  "description": "",
+  "description": "EPAM Automated Testing in JavaScript - Practical Task 1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
