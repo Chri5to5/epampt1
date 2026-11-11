@@ -1,5 +1,4 @@
-Task steps done:
-1. Created a new github repository
+1. Created a new github repository.
 2. Executed npm init -y.
 3. Edited the name and authors fields in package.json.
 4. Created a .gitignore file.
